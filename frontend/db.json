@@ -1,0 +1,24 @@
+{
+  "persons": [
+    {
+      "title": "Arto Hellas",
+      "salary": "123456",
+      "id": 1
+    },
+    {
+      "title": "Ada Lovelace",
+      "salary": "5323523",
+      "id": 2
+    },
+    {
+      "title": "Dan Abramov",
+      "salary": "234345",
+      "id": 3
+    },
+    {
+      "title": "Mary Poppendieck",
+      "salary": "6423122",
+      "id": 4
+    }
+  ]
+}
